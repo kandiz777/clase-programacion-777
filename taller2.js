@@ -28,10 +28,10 @@ console.log(perimetro )
 console.log("resultado del punto #2");
 
 console.log("------------------------------");
-console.log("area circulo");
-var radio = prompt ("escriba el valor del radio del circulo")
-var areacirculo = Math.PI*radio**2
-console.log(areacirculo)
+console.log("diametro circulo");
+var radio = prompt ("escriba el valor del diametro del circulo")
+var diametrocirculo = Math.PI*radio**2
+console.log(diametrocirculo)
 
 console.log("------------------------------");
 console.log("volumen esfera");
@@ -48,6 +48,7 @@ var h = prompt ( "ingrese el valor de h")
 var area = 1/2 * (base1 + base2) * h
 console.log (area)
 console.log ("resultado del punto #4")
+
 
 
 
