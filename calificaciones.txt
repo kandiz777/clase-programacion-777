@@ -1,5 +1,10 @@
+Oscar Salgado y Mariana Diaz
+
+
 Taller 1: Nota 5
 
 Taller 2: Nota 4.2
     * linea 31, punto 3. Debía pedir diametro, no radio
-    * faltan 3 puntos
+    * faltan 3 puntos.
+
+Taller 3: Nota 5
