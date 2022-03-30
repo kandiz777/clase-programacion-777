@@ -51,18 +51,3 @@ console.log ("resultado del punto #4")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
