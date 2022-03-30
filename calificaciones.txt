@@ -8,3 +8,10 @@ Taller 2: Nota 4.2
     * faltan 3 puntos.
 
 Taller 3: Nota 5
+
+arreglo (observaciones generales del archivo): Nota 2
+    * linea 28 incompleta
+    * sospechoso que estén al día despues de decirles que les faltaba código 🤔🤨✌👉
+    * Primer punto del quiz, incorrecto. Crearon un arreglo con tres arreglos
+    * lineas 55 a 61 no cumplen ninguna funcion
+    * "punto 3" aunque arroja el resultado correcto no es la manera optima de desarrollarlo
