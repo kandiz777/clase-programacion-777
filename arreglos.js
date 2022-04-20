@@ -51,6 +51,7 @@ console.log(MiprimerArreglo);
 
 //quiz
 var arreglo=[["analisis"],["tecnologia"],["desarrollo"]] 
+
 console.log(arreglo)
 arreglo[0]= "analisis"
 arreglo[1]= " tecnologia"
