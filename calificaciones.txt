@@ -15,3 +15,9 @@ arreglo (observaciones generales del archivo): Nota 2
     * Primer punto del quiz, incorrecto. Crearon un arreglo con tres arreglos
     * lineas 55 a 61 no cumplen ninguna funcion
     * "punto 3" aunque arroja el resultado correcto no es la manera optima de desarrollarlo
+
+
+
+************************* segundo periodo
+
+Enlace examen: https://acortar.link/5UUBF0
