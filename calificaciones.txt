@@ -21,3 +21,7 @@ arreglo (observaciones generales del archivo): Nota 2
 ************************* segundo periodo
 
 Enlace examen: https://acortar.link/5UUBF0
+
+
+Examen: Nota 4.9
+    * linea 19, es 8 no 50
