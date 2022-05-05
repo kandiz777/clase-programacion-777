@@ -84,7 +84,37 @@ if (x1 == 0 || x2 == 0) {
 //Punto 11
 
 
+var diadelasemana = "lunes";
 
+
+if (diadelasemana == "lunes") {
+    console.log("El plato especial del dia de la semana es arroz con pollo")
+} else if (diadelasemana == "martes") {
+    console.log("El plato especial del dia de la semana es chuleta de cerdo/pollo")
+} else if (diadelasemana == "miercoles") {
+    console.log("El plato especial del dia de la semana es frijoles")
+} else if (diadelasemana == "jueves") {
+    console.log("El plato especial del dia de la semana es sancocho de pescado")
+} else if (diadelasemana == "viernes") {
+    console.log("El plato especial del dia de la semana es bandeja paisa ")
+} else if (diadelasemana == "sabado") {
+    console.log("El plato especial del dia de la semana es ajiaco")
+} else if (diadelasemana == "domingo") {
+    console.log("El plato especial del dia de la semana es sancocho de galiina ")
+}
+
+//Punto 12
+
+var dato = '6'.toUpperCase();
+
+
+if (dato == "A" || dato == "E" || dato == "I" || dato == "O" || dato == "U") {
+    console.log("Insertaste una vocal")
+} else if (dato == "B" ||  dato == "C" || dato == "D" || dato == "F" || dato == "G" || dato == "H" || dato == "J" || dato == "K" || dato == "L" || dato == "M" || dato == "N" || dato == "Ñ" || dato =="P" || dato == "Q" || dato == "R" || dato == "S"|| dato == "T" || dato == "V" || dato == "X" || dato == "Z" || dato == "W") {
+    console.log("Insertaste una consonante")
+} else {
+    console.log("Insertaste un numero")
+}
 
 
 
