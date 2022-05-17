@@ -25,3 +25,10 @@ Enlace examen: https://acortar.link/5UUBF0
 
 Examen: Nota 4.9
     * linea 19, es 8 no 50
+
+Taller condicionales: Nota 4.2
+    * linea 30, condicion incorrecta 
+    * linea 38, le permite a numero1 ser mayor a numero2 y no debería 
+    * Linea 45, falta signos =
+    * punto 10, la division debía hacerse en el else, despues de validar que no va a dar un error
+    * Punto 12, si inserta la Y sale que es numero
