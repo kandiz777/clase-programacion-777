@@ -39,10 +39,10 @@ console.log("punto3")
 
  mayor= arreglo [0]
 for( var i=0; i<0; i++){
-    num=parseint(prompt("ingrese un numero" + i))
-    console.log(i)
+  
+    
     if(arreglo [i]>mayor){
-        meyor= arreglo[i]
+       
         
 }
 }
