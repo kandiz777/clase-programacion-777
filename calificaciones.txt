@@ -32,3 +32,15 @@ Taller condicionales: Nota 4.2
     * Linea 45, falta signos =
     * punto 10, la division debía hacerse en el else, despues de validar que no va a dar un error
     * Punto 12, si inserta la Y sale que es numero
+
+taller while: nota 5 (bonus punto 8)
+    * punto 6, el limite del ciclo lo dice el usuario con la cantidad de estudiantes
+    * linea 45, el mensaje se muestra por fuera del ciclo
+    * linea 72, >=3.5, con 3.5 también gana
+    * punto 9, no está resuelto
+
+examen while: Nota 5
+    * la condicion de la linea 61, debe ir fuera del ciclo
+    * linea 67, debe mostrar el total a pagar sin descuento
+    * linea 85, esa condicon es para las notas perdidas debía ser >=3.5
+    * Linea 97, no muestra el mensaje real
