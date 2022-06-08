@@ -55,8 +55,9 @@ var cliente= prompt("si desea ingresar un articulo ponga si y si no ponga no");
 while(cliente =="si"){
     var precio=parseInt(prompt("ingrese el precio de su producto"))
   totalpag+=precio
-acu+= 1
-cliente=prompt(" si desea ingresar un articulo ponga si y si no ponga no  ")
+acu+= 1|
+
+ var cliente =prompt(" si desea ingresar un articulo ponga si y si no ponga no  ")
 
 if ( acu >= 8 && acu < 15) {
   console.log("El descuento del 10% fue aplicado tu total a pagar es de " + precio*0.90)
