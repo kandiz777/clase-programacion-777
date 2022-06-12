@@ -44,3 +44,7 @@ examen while: Nota 5
     * linea 67, debe mostrar el total a pagar sin descuento
     * linea 85, esa condicon es para las notas perdidas debía ser >=3.5
     * Linea 97, no muestra el mensaje real
+
+
+ciclo for: Nota 4(karla, murillas, diaz)
+    * punto 4, incompleto
