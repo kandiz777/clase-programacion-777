@@ -32,17 +32,31 @@ console.log("punto3")
  for( var i=0; i<=numero2; i++ )
  console.log( numero + "x" + i + "=" + numero * i )
 
-
-
-
  console.log("punto4")
+var arreglonum=[] 
+var num; 
+for(var i=1; i<=10; i++){ 
+    num=parseInt( prompt("Ingrese el numero"))
+    arreglonum.push(num); 
+}
+var mayor=arreglonum[0]
+for(var i=0; i<10; i++){
+if(arreglonum=[i]> mayor){
+   mayor=arreglonum[i] 
+}
+}
+console.log("el numero mayor es" + mayor )
 
- mayor= arreglo [0]
-for( var i=0; i<0; i++){
-  
-    
-    if(arreglo [i]>mayor){
-       
-        
+
+console.log("punto5")
+var arreglospro=[] 
+var pro; 
+for(var i=1; i<=5; i++){ 
+    pro=prompt("Ingrese el nombre de los articulos que va a comprar" )
+    arreglospro.push(pro); 
 }
-}
+var arreglospre=[]
+for(var i=0; i<arreglospro.length; i++){ 
+  var precio = parseFloat(prompt("ingrese el precio de" +arreglospro[i]))
+arreglospre.push(precio)
+    }
