@@ -45,7 +45,7 @@ if(arreglonum=[i]> mayor){
    mayor=arreglonum[i] 
 }
 }
-console.log("el numero mayor es" + mayor )
+console.log("el numero mayor es " + mayor )
 
 
 console.log("punto5")
