@@ -48,3 +48,8 @@ examen while: Nota 5
 
 ciclo for: Nota 4(karla, murillas, diaz)
     * punto 4, incompleto
+
+
+geometría
+    nota: 4
+        no están utilizando las funciones que se encargan de las operaciones
