@@ -53,3 +53,16 @@ ciclo for: Nota 4(karla, murillas, diaz)
 geometría
     nota: 4
         no están utilizando las funciones que se encargan de las operaciones
+
+
+
+cuarto periodo:
+
+taller 1:
+    nota: 4.2
+        *La seccion de pasatiempo debía ir en <ul> si quería que fuera lista
+        * igual para los lugares que desean visitar
+
+taller 2:
+    nota:4
+        *De qué página se basaron?
